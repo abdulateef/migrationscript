@@ -1,0 +1,15 @@
+C:\Users\lawal.abdulateef\source\repos\OctopusVariableScript\OctopusVariableScript\bin\Debug\netcoreapp3.1\OctopusVariableScript.exe
+C:\Users\lawal.abdulateef\source\repos\OctopusVariableScript\OctopusVariableScript\bin\Debug\netcoreapp3.1\OctopusVariableScript.deps.json
+C:\Users\lawal.abdulateef\source\repos\OctopusVariableScript\OctopusVariableScript\bin\Debug\netcoreapp3.1\OctopusVariableScript.runtimeconfig.json
+C:\Users\lawal.abdulateef\source\repos\OctopusVariableScript\OctopusVariableScript\bin\Debug\netcoreapp3.1\OctopusVariableScript.runtimeconfig.dev.json
+C:\Users\lawal.abdulateef\source\repos\OctopusVariableScript\OctopusVariableScript\bin\Debug\netcoreapp3.1\OctopusVariableScript.dll
+C:\Users\lawal.abdulateef\source\repos\OctopusVariableScript\OctopusVariableScript\bin\Debug\netcoreapp3.1\OctopusVariableScript.pdb
+C:\Users\lawal.abdulateef\source\repos\OctopusVariableScript\OctopusVariableScript\obj\Debug\netcoreapp3.1\OctopusVariableScript.csprojAssemblyReference.cache
+C:\Users\lawal.abdulateef\source\repos\OctopusVariableScript\OctopusVariableScript\obj\Debug\netcoreapp3.1\OctopusVariableScript.AssemblyInfoInputs.cache
+C:\Users\lawal.abdulateef\source\repos\OctopusVariableScript\OctopusVariableScript\obj\Debug\netcoreapp3.1\OctopusVariableScript.AssemblyInfo.cs
+C:\Users\lawal.abdulateef\source\repos\OctopusVariableScript\OctopusVariableScript\obj\Debug\netcoreapp3.1\OctopusVariableScript.csproj.CoreCompileInputs.cache
+C:\Users\lawal.abdulateef\source\repos\OctopusVariableScript\OctopusVariableScript\obj\Debug\netcoreapp3.1\OctopusVariableScript.dll
+C:\Users\lawal.abdulateef\source\repos\OctopusVariableScript\OctopusVariableScript\obj\Debug\netcoreapp3.1\OctopusVariableScript.pdb
+C:\Users\lawal.abdulateef\source\repos\OctopusVariableScript\OctopusVariableScript\obj\Debug\netcoreapp3.1\OctopusVariableScript.genruntimeconfig.cache
+C:\Users\lawal.abdulateef\source\repos\OctopusVariableScript\OctopusVariableScript\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lawal.abdulateef\source\repos\OctopusVariableScript\OctopusVariableScript\obj\Debug\netcoreapp3.1\OctopusVariableScript.csproj.CopyComplete

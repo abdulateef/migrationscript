@@ -1,0 +1,167 @@
+[
+  {
+    "name": "AllowedHosts",
+    "value": "",
+    "slotSetting": false
+  },
+  {
+    "name": "APPNAME",
+    "value": "",
+    "slotSetting": false
+  },
+  {
+    "name": "AppPort",
+    "value": "",
+    "slotSetting": false
+  },
+  {
+    "name": "AppSettings_IndexingService",
+    "value": "https://vigipayindexingservice.test.vggdev.com",
+    "slotSetting": false
+  },
+  {
+    "name": "AppSettings_IsLive",
+    "value": "false",
+    "slotSetting": false
+  },
+  {
+    "name": "AppSettings_IsSmsLive",
+    "value": "false",
+    "slotSetting": false
+  },
+  {
+    "name": "AppSettings_SSOIdentityUrl",
+    "value": "https://sso.test.vggdev.com",
+    "slotSetting": false
+  },
+  {
+    "name": "ConnectionStrings__DefaultConnection",
+    "value": "",
+    "slotSetting": false
+  },
+  {
+    "name": "CUSTOM_DOMAIN_NAME",
+    "value": "swervepaytransaction-api.test.vggdev.com",
+    "slotSetting": false
+  },
+  {
+    "name": "DatabaseName",
+    "value": "ebips.bank",
+    "slotSetting": false
+  },
+  {
+    "name": "DOCKER_REGISTRY_SERVER_PASSWORD",
+    "value": "9s=ge711p80/bs3G+Uvv759fDQb417/7",
+    "slotSetting": false
+  },
+  {
+    "name": "DOCKER_REGISTRY_SERVER_URL",
+    "value": "https://vggcicdcontainerregistry.azurecr.io",
+    "slotSetting": false
+  },
+  {
+    "name": "DOCKER_REGISTRY_SERVER_USERNAME",
+    "value": "VGGCiCdContainerRegistry",
+    "slotSetting": false
+  },
+  {
+    "name": "ElasticApm__CaptureBody",
+    "value": "",
+    "slotSetting": false
+  },
+  {
+    "name": "ElasticApm__Environment",
+    "value": "",
+    "slotSetting": false
+  },
+  {
+    "name": "ElasticApm__SecretToken",
+    "value": "",
+    "slotSetting": false
+  },
+  {
+    "name": "ElasticApm__ServerUrls",
+    "value": "",
+    "slotSetting": false
+  },
+  {
+    "name": "ElasticApm__ServiceName",
+    "value": "",
+    "slotSetting": false
+  },
+  {
+    "name": "ElasticApm__StackTraceLimit",
+    "value": "",
+    "slotSetting": false
+  },
+  {
+    "name": "Environment",
+    "value": "Test",
+    "slotSetting": false
+  },
+  {
+    "name": "Logging__LogLevel__Default",
+    "value": "",
+    "slotSetting": false
+  },
+  {
+    "name": "MailSetting__EduNotifyUrl",
+    "value": "",
+    "slotSetting": false
+  },
+  {
+    "name": "MailSetting__SMTPPassword",
+    "value": "",
+    "slotSetting": false
+  },
+  {
+    "name": "MailSetting__SMTPPORT",
+    "value": "",
+    "slotSetting": false
+  },
+  {
+    "name": "MailSetting__SMTPServer",
+    "value": "",
+    "slotSetting": false
+  },
+  {
+    "name": "SqlMigrationPrefix",
+    "value": "",
+    "slotSetting": false
+  },
+  {
+    "name": "SSOIdentityUrl",
+    "value": "",
+    "slotSetting": false
+  },
+  {
+    "name": "Stackify__ApiKey",
+    "value": "",
+    "slotSetting": false
+  },
+  {
+    "name": "Stackify__AppName",
+    "value": "",
+    "slotSetting": false
+  },
+  {
+    "name": "Stackify__Environment",
+    "value": "",
+    "slotSetting": false
+  },
+  {
+    "name": "WEBSITE_HTTPLOGGING_RETENTION_DAYS",
+    "value": "3",
+    "slotSetting": false
+  },
+  {
+    "name": "WEBSITES_ENABLE_APP_SERVICE_STORAGE",
+    "value": "false",
+    "slotSetting": false
+  },
+  {
+    "name": "WEBSITES_PORT",
+    "value": "80",
+    "slotSetting": false
+  }
+]

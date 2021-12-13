@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dNx+9Fk3CCitYiOWtlTTc6sOK9lwwZHYEDeq8b3B/okggob20/zyD/KuGB0CupYeKag4V0JBuU71tXyf6lYj3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lawal.abdulateef\\source\\repos\\OctopusVariableScript\\OctopusVariableScript\\OctopusVariableScript.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lawal.abdulateef\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
